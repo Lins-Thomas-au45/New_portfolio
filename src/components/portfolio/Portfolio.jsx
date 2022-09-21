@@ -1,11 +1,11 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../Assets/portfolio6.PNG'
-import IMG2 from '../../Assets/portfolio1.PNG'
-import IMG3 from '../../Assets/portfolio2.PNG'
-import IMG4 from '../../Assets/portfolio3.PNG'
-import IMG5 from '../../Assets/portfolio4.PNG'
-import IMG6 from '../../Assets/portfolio5.PNG'
+import IMG1 from '../../assets/portfolio6.PNG'
+import IMG2 from '../../assets/portfolio1.PNG'
+import IMG3 from '../../assets/portfolio2.PNG'
+import IMG4 from '../../assets/portfolio3.PNG'
+import IMG5 from '../../assets/portfolio4.PNG'
+import IMG6 from '../../assets/portfolio5.PNG'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
